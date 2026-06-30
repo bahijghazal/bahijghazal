@@ -22,7 +22,7 @@
 - 🔭 I'm currently building backend and AI-integrated systems — APIs, microservices, and the plumbing that connects them
 - 🌍 Currently on exchange at **UPPA** (Université de Pau et des Pays de l'Adour), Pau, France
 - 💼 Prior internship experience at **Slangit**, contributing to **Slangit Platform** and **aiSTART** — an educational AI platform
-- 🛠️ Comfortable across the stack: Python, Java, PHP, Node.js, ASP.NET, AWS, Neo4j, and microservices architecture
+- 🛠️ Comfortable across the stack: Python, Java, PHP, Node.js, ASP.NET, RabbitMQ, AWS, Neo4j, and microservices architecture
 - 🔌 Hands-on with hardware — Raspberry Pi / GrovePi IoT builds, sensor integration, MQTT messaging
 - 📫 Reach me at **bahijghazal1@gmail.com**
 
@@ -79,10 +79,18 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+ 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahijghazal&theme=radical&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub Streak" />
 </p>
 
 ---
